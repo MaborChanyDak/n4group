@@ -70,7 +70,7 @@ function Footer() {
       </div>
       
       <div className="">
-        <h6 class="uppercase font-semibold mb-4 flex justify-center md:justify-start">
+        <h6 className="uppercase font-semibold mb-4 flex justify-center md:justify-start">
           Contact
         </h6>
         <p className="flex items-center justify-center md:justify-start mb-4">

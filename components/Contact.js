@@ -1,20 +1,21 @@
 
 function Contact() {
   return (
-    <div class="container my-10 px-6 mx-auto">
+    <div className="container my-10 px-6 mx-auto">
         <div className="flex border-b border-gray-300 mb-10"/>
 
   
     <section className="mb-32 text-gray-800 text-center">
       <div className="p-12">
         <h2 className="text-5xl font-bold tracking-tight leading-tight my-12">
-          Let's stay in touch <br />
-          <span className="text-blue-600">Join our social media</span>
+          Let's stay in touch 
         </h2>
-        <div class="flex flex-wrap justify-center md:space-x-2  ">
+        <br />
+        <span className="text-blue-600">Join our social media</span>
+        <div className="flex flex-wrap justify-center md:space-x-2  ">
           
           <button type="button" data-mdb-ripple="true" data-mdb-ripple-color="light"
-            className="inline-block py-2.5 bg-[#1877f2] px-6 mr-2 mb-2 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out flex items-center"
+            className="py-2.5 bg-[#1877f2] px-6 mr-2 mb-2 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out flex items-center"
             >
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" className="w-4 h-4 mr-2">
               <path fill="currentColor"
@@ -25,7 +26,7 @@ function Contact() {
   
          
           <button type="button" data-mdb-ripple="true" data-mdb-ripple-color="light"
-            className="inline-block py-2.5 bg-[#1da1f2] px-6 mr-2 mb-2 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out flex items-center"
+            className="py-2.5 bg-[#1da1f2] px-6 mr-2 mb-2 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out flex items-center"
             >
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" className="w-4 h-4 mr-2">
               <path fill="currentColor"
@@ -35,7 +36,7 @@ function Contact() {
           </button>
   
           <button type="button" data-mdb-ripple="true" data-mdb-ripple-color="light"
-            className="inline-block py-2.5 bg-[#ea4335] px-6 mr-2 mb-2 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out flex items-center"
+            className="py-2.5 bg-[#ea4335] px-6 mr-2 mb-2 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out flex items-center"
             >
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 488 512" className="w-4 h-4 mr-2">
               <path fill="currentColor"
@@ -45,7 +46,7 @@ function Contact() {
           </button>
   
           <button type="button" data-mdb-ripple="true" data-mdb-ripple-color="light"
-            className="inline-block py-2.5 bg-[#c13584] px-6 mr-2 mb-2 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out flex items-center"
+            className="py-2.5 bg-[#c13584] px-6 mr-2 mb-2 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out flex items-center"
             >
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" className="w-4 h-4 mr-2">
               <path fill="currentColor"

@@ -1,8 +1,7 @@
-import React from 'react'
 
 function OurServices() {
   return (
-    <div class="container my-24 px-6 mx-auto">
+    <div className="container my-24 px-6 mx-auto">
         <div className="flex border-b border-gray-300 mb-10"/>
 
 

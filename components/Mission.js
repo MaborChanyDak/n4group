@@ -7,7 +7,7 @@ function Mission() {
     <div className="block rounded-lg shadow-lg bg-teal-100">
       <div className="flex flex-wrap items-center">
         <div className="lg:flex grow-0 shrink-0 basis-auto lg:w-6/12 xl:w-4/12">
-          <Image src={CEO} className="w-full rounded-t-lg lg:rounded-tr-none lg:rounded-bl-lg"/>
+          <Image src={CEO} alt="ceo_img" className="w-full rounded-t-lg lg:rounded-tr-none lg:rounded-bl-lg"/>
         </div>
         <div className="grow-0 shrink-0 basis-auto w-full lg:w-6/12 xl:w-8/12">
           <div className="px-6 py-12 md:px-12">
