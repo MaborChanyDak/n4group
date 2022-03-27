@@ -7,10 +7,8 @@ function Contact() {
   
     <section className="mb-32 text-gray-800 text-center">
       <div className="p-12">
-        <h2 className="text-5xl font-bold tracking-tight leading-tight my-12">
-          Let's stay in touch 
-        </h2>
-        <br />
+        <h2 className="text-5xl font-bold tracking-tight leading-tight my-12">Let's stay in touch </h2>
+        <br/>
         <span className="text-blue-600">Join our social media</span>
         <div className="flex flex-wrap justify-center md:space-x-2  ">
           
