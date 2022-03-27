@@ -2,7 +2,7 @@ import HeaderItem from "./HeaderItem"
 import {BsFacebook, BsInstagram, BsPhone, BsTwitter, BsYoutube, BsMailbox2} from 'react-icons/bs';
 function Header() {
   return (
-    <header className="flex flex-col sm:flex-row mb-2 bg-yellow-500 justify-between items-center h-auto">
+    <header className="flex flex-col sm:flex-row mb-2 sm:bg-yellow-500 justify-between items-center h-auto">
         <div className="flex flex-grow justify-evenly items-center max-w-2xl text-blue-500">
           <HeaderItem title="FACEBOOK" Icon={BsFacebook}/>
           <HeaderItem title="INSTAGRAM" Icon={BsInstagram}/>
